@@ -158,6 +158,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSpeed: 10
   maxAcceleration: 10
+  allowedArea:
+    serializedVersion: 2
+    x: -4.5
+    y: -4.5
+    width: 9
+    height: 9
+  bounciness: 0.92
 --- !u!96 &176797234
 TrailRenderer:
   serializedVersion: 2
